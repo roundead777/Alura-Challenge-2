@@ -367,6 +367,7 @@ header {
 
 }
 .t-modal .modal-content{
+	background-color:none;
 	border-top-left-radius: 10px;
 	border-top-right-radius: 10px;
 	border-bottom-left-radius: 10px;
@@ -377,24 +378,28 @@ header {
 }
 
 .t-modal .modal-title{
+	background-color:none;
 	border: none;
 	color: #b3e3a9;
 	font-weight: bold;
 }
 
 .t-modal .close{
+	background-color:none;
 	border: none;
 	color: #c9ecc2;
 	box-shadow: none;
 }
 
 .t-modal .close:hover{
+	background-color:none;
 	border: none;
 	color: white;
 	box-shadow: black;
 }
 
 .t-modal.primary .modal-content{
+	
 	border: none;
 	
 	background-color: #c9ecc2;
@@ -407,6 +412,7 @@ header {
 
 }
 .t-modal .modal-body{
+	background-color:none;
 	border: none;
 	color: #284123;
 	font-weight: bold;
@@ -423,6 +429,7 @@ border: none;
 }
 
 .modal-footer{
+	background-color:none;
 	background-image: url("img/zumbius.jpg");
 	border: none;
 }
