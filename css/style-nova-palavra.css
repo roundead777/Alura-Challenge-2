@@ -149,6 +149,8 @@ body {
     display: inline;
     margin-left: 10px;
     margin-right: 10px;
+    margin-top:auto;
+    margin-bottom:auto;
     color:#b4e6aa;
     font-weight: bold;
 }
