@@ -244,7 +244,7 @@ body {
     
 }
 
-@media screen and (min-width: 321px){
+@media screen and (min-width: 320px){
 
 .img-logo{
     margin-left: 70px;
@@ -427,7 +427,7 @@ body {
     margin-left: 25px;
 }
 
-@media screen and (min-width: 376px){
+@media screen and (min-width: 375px){
 
 .img-logo{
     width: 35vw;
@@ -469,7 +469,7 @@ body {
     margin-left: 60px;
 }
 
-@media screen and (min-width: 426px){
+@media screen and (min-width: 425px){
 
 .img-logo{
     width: 32vw;
@@ -497,7 +497,7 @@ body {
 
 }
 
-@media screen and (min-width: 769px){
+@media screen and (min-width: 768px){
 
 .header-novaPalavra{
     height: 10px;
@@ -580,7 +580,7 @@ body {
 
 
 
-@media screen and (min-width: 1025px){
+@media screen and (min-width: 1024px){
 
 body{
     overflow: hidden;
