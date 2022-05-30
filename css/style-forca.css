@@ -87,7 +87,7 @@ header {
 }
 
 #imagem {
-	background-image: url("img/forca01x.png");
+	background-image: url("../img/forca01x.png");
 	width: 234px;
 	height: 344px;
     background-repeat: no-repeat;
