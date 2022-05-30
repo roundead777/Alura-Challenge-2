@@ -115,7 +115,7 @@ header {
 }
 
 
-@media screen and (min-width: 321px){
+@media screen and (min-width: 320px){
 .img-logo{
 	margin-top: -5px;
   	margin-left: 60px;
@@ -151,7 +151,7 @@ header {
 }
 
 
-@media screen and (min-width: 376px){
+@media screen and (min-width: 375px){
 .img-logo{
   	margin-left: 70px;
 }
@@ -180,7 +180,7 @@ header {
 }
 }
 
-@media screen and (min-width: 426px){
+@media screen and (min-width: 425px){
 
 .img-logo{
   	margin-left: 80px;
@@ -211,7 +211,7 @@ header {
 
 }
 
-@media screen and (min-width: 769px){
+@media screen and (min-width: 768px){
 
 .img-logo{
   	margin-left: 60px;
@@ -245,7 +245,7 @@ header {
 
 }
 
-@media screen and (min-width: 1025px){
+@media screen and (min-width: 1024px){
 
 .img-logo{
 	margin-top: -10px;
