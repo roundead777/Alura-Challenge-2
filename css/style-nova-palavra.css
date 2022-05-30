@@ -245,6 +245,9 @@ body {
 
 
 @media screen and (min-width: 320px){
+    
+.rodape2 a{
+    display:none;
 
 .img-logo{
     margin-left: 70px;
