@@ -429,6 +429,10 @@ body {
 
 @media screen and (min-width: 375px){
 
+    
+    .rodape2{
+    display: none;
+}
 .img-logo{
     width: 35vw;
     margin-left: 104px;
