@@ -378,3 +378,8 @@ let btnReiniciar = document.querySelector("#btnReiniciar");
 btnReiniciar.addEventListener("click", function(){
 	location.reload();
 });
+
+function novoJogo(){
+	location.reload();
+};
+
