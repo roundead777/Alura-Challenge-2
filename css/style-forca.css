@@ -427,6 +427,17 @@ header {
 background-color: #6fa365;
 border: none;
 }
+.btn.novoJogo{
+	color: #FFFFFF;
+	background-color: #284123;
+	border: none;
+	padding:5 5 5 5; 
+}
+
+.btn.novoJogo:hover{
+background-color: #6fa365;
+border: none;
+}
 
 .modal-footer{
 	background-color:none;
