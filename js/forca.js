@@ -6,53 +6,53 @@ let palavraSecretaSorteada;
 
 const palavras = [
 	palavra001 = {
-		nome: "IRLANDA",
-		categoria:"LUGARES"
+		nome: "HIDDEN",
+		categoria:"TIPOS DE INPUT"
 	},
 
 	palavra002 = {
-		nome: "EQUADOR",
-		categoria:"LUGARES"
+		nome: "IMAGE",
+		categoria:"TIPOS DE INPUT"
 	},
 
 	palavra003 = {
-		nome : "BRASIL",
-		categoria : "LUGARES"
+		nome : "MONTH",
+		categoria : "TIPOS DE INPUT"
 	},
 
 	palavra004 = {
-		nome : "PARAGUAI",
-		categoria : "LUGARES"
+		nome : "NUMBER",
+		categoria : "TIPOS DE INPUT"
 	},
 
 	palavra005 = {
-		nome : "CHILE",
-		categoria : "LUGARES"
+		nome : "CHECKBOX",
+		categoria : "TIPOS DE INPUT"
 	},
 
 	palavra006 = {
-		nome : "AMAZONIA",
-		categoria : "LUGARES"
+		nome : "BUTTON",
+		categoria : "TIPOS DE INPUT"
 	},
 
 	palavra007 = {
-		nome : "INDONESIA",
-		categoria : "LUGARES"
+		nome : "EMAIL",
+		categoria : "TIPOS DE INPUT"
 	},
 
 	palavra008 = {
-		nome : "CHINA",
-		categoria : "LUGARES"
+		nome : "PASSWORD",
+		categoria : "TIPOS DE INPUT"
 	},
 
 	palavra009 = {
-		nome : "TURQUIA",
-		categoria : "LUGARES"
+		nome : "SUBMIT",
+		categoria : "TIPOS DE INPUT"
 	},
 
 	palavra010 = {
-		nome : "MEXICO",
-		categoria : "LUGARES"
+		nome : "URL",
+		categoria : "TIPOS DE INPUT"
 	},
 
 	palavra011 = {
@@ -106,48 +106,48 @@ const palavras = [
 	},
 
 	palavra021 = {
-		nome : "CADEIRA",
-		categoria : "OBJETOS"
+		nome : "DOCTYPE",
+		categoria : "TAGS HTML"
 	},
 
 	palavra022 = {
-		nome : "PORTA",
-		categoria : "OBJETOS"
+		nome : "HEAD",
+		categoria : "TAGS HTML"
 	},
 
 	palavra023 = {
-		nome : "SAPATO",
-		categoria : "OBJETOS"
+		nome : "TITLE",
+		categoria : "TAGS HTML"
 	},
 
 	palavra024 = {
-		nome : "RELOGIO",
-		categoria : "OBJETOS"
+		nome : "BODY",
+		categoria : "TAGS HTML"
 	},
 
 	palavra025 = {
-		nome : "ALICATE",
-		categoria : "OBJETOS"
+		nome : "FOOTER",
+		categoria : "TAGS HTML"
 	},
 
 	palavra026 = {
-		nome : "COMPUTADOR",
-		categoria : "OBJETOS"
+		nome : "SECTION",
+		categoria : "TAGS HTML"
 	},
 
 	palavra027 = {
-		nome : "MARTELO",
-		categoria : "OBJETOS"
+		nome : "HEADER",
+		categoria : "TAGS HTML"
 	},
 
 	palavra028 = {
-		nome : "CARRO",
-		categoria : "OBJETOS"
+		nome : "SCRIPT",
+		categoria : "TAGS HTML"
 	},
 
 	palavra029 = {
-		nome : "CADEIRA",
-		categoria : "OBJETOS"
+		nome : "BUTTON",
+		categoria : "TAGS HTML"
 	},
 
 	palavra030 = {
