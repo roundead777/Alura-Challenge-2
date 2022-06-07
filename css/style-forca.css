@@ -113,7 +113,7 @@ header {
     column-gap: 8px;
     font-weight: bold;
     transition: 1s all;
-    cursor: pointer;
+    cursor: url("../img/zhand.cur"),default;
 
 }
 
@@ -138,7 +138,7 @@ header {
     column-gap: 8px;
     font-weight: bold;
     transition: 1s all;
-    cursor: pointer;
+    cursor: url("../img/zhand.cur"),default;
 }
 
 .inicio:hover {
@@ -199,6 +199,7 @@ header {
 	font-family: 'Inter', sans-serif;
 	font-weight: 900;
 	transition: 0.6s all;
+	cursor: url("../img/zhand.cur"),default;
 }
 
 .teclas button:hover {
