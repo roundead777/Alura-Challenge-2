@@ -636,15 +636,18 @@ body{
 .git:hover{
     border-radius: 80px;
     box-shadow: 0 0 10px #b3e3a9, 0 0 40px #b3e3a9, 0 0 80px #b3e3a9;
+    cursor: url("../img/zhand.cur"),default;
 }
 
 .linked:hover{
     border-radius: 80px;
     box-shadow: 0 0 10px #b3e3a9, 0 0 40px #b3e3a9, 0 0 80px #b3e3a9;
+    cursor: url("../img/zhand.cur"),default;
 }
 .insta:hover{
     border-radius: 80px;
     box-shadow: 0 0 10px #b3e3a9, 0 0 40px #b3e3a9, 0 0 80px #b3e3a9;
+    cursor: url("../img/zhand.cur"),default;
 }
 
 }
