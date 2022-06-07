@@ -101,6 +101,7 @@ body {
     background:#b3e3a9;
     color: #36652d;
     transform: scale(1.2);
+    cursor: url("../img/zhand.cur"),default;
 }
 
 /*.input-texto {
@@ -188,6 +189,7 @@ body {
     background:#b3e3a9;
     color: #36652d;
     transform: scale(1.2);
+    cursor: url("../img/zhand.cur"),default;
 }
 
 .cancelar {
@@ -210,6 +212,7 @@ body {
     background: #b3e3a9;
     color:#36652d;
     transform: scale(1.2);
+    cursor: url("../img/zhand.cur"),default;
 }
 
 
